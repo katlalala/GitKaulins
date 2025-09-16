@@ -17,6 +17,7 @@ public class uzd {
 	
 	
 	public static void main(String[] args) {
+		System.out.println("Esi sveicināts manā metamā kauliņa programmā!");
 		int reizes;
 
 		Scanner scan = new Scanner(System.in);
